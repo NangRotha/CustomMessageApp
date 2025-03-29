@@ -34,7 +34,7 @@ class ProfileCard extends StatelessWidget {
           // Profile Picture
           ClipOval(
             child: Image.network(
-              'https://cdn-icons-png.flaticon.com/512/9203/9203764.png',
+              'https://placekitten.com/200/200',
               width: 100,
               height: 100,
               fit: BoxFit.cover,
